@@ -1,7 +1,7 @@
 # AIES_2021_Metric_Supplemental
 Supplementary materials for "Measuring Group Advantage: A Comparative Study of Fair Ranking Metrics", in submission at AIES 2021
 
-Additional analysis of bias functions that do not meet are assumptions is given in "metric_supp.pdf"
+Additional analysis of bias functions that do not meet are assumptions is given in the "alternative_advantage" directory
 
 Code: 
 
